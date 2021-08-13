@@ -1,0 +1,13 @@
+Correct Answer:
+
+(b) if the data in statement II alone are sufficient to answer the question;
+
+Explanation:
+
+The question asks for a specific day in a month that is the fourteenth day of a given month. Thus, based on statement II, it is sufficient to determine the answer because assuming the third Saturday of the month is seventeenth we can tell that:
+
+* The sixteenth day will be Friday.
+* The fifteenth day will be Thursday.
+* The fourteenth day will be Wednesday.
+
+Therefore, Wednesday is the fourteenth day of the given month using only statement II as a clue to derive the answer.
