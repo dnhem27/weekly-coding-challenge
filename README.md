@@ -1,1 +1,1 @@
-# weekly-coding-challenge
+Onboarding Weekly Coding Challenge
