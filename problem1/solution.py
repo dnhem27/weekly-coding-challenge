@@ -17,7 +17,7 @@ if __name__ == '__main__':
 
     a = int(input("Please enter 'a' value:"))
     if a == 0:
-        print("Invalid input values! Please try again.")
+        print("Invalid input value! Please try again.")
     else:
         b = int(input("Please enter 'b' value:"))
         c = int(input("Please enter 'c' value:"))
