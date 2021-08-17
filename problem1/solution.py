@@ -28,7 +28,7 @@ def bucketize(phrase, n):
         words_bucket = []
         temp = []
         counter = optimized_n
-        for index, word in enumerate(word_list):
+        for word in word_list:
             if counter > 0:
                 temp.append(word + " ")
                 counter -= len(word) + 1
